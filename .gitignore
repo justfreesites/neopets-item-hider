@@ -5,8 +5,7 @@ item-hider.user.js
 obfuscate.js
 
 # Temp files created during obfuscation
-_tmp_in.js
-_tmp_out.js
+_tmp*.js
 
 # CSS reference files (local only)
 *.css
