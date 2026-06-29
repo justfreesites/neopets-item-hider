@@ -1,0 +1,19 @@
+# Keep the clean source local — only the obfuscated build goes to GitHub
+item-hider.user.js
+
+# Obfuscation build script (local only)
+obfuscate.js
+
+# Temp files created during obfuscation
+_tmp_in.js
+_tmp_out.js
+
+# CSS reference files (local only)
+*.css
+
+# Excel reference files (local only)
+*.xlsx
+~$*.xlsx
+
+# Test guide (local only)
+test_guide.md
