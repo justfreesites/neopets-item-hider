@@ -1,7 +1,7 @@
-// ==UserScript==
+﻿// ==UserScript==
 // @name            MrQuackhead's Item Hider
 // @namespace       https://github.com/justfreesites/neopets-item-hider
-// @version         2.1.0
+// @version         2.0.2
 // @description     Hides items in Neopets main shops that are not on your list. Includes per-shop lists, persistent storage, an on-page panel UI, haggle auto-fill, and import/export.
 // @author          MrQuackhead
 // @match           *://*.neopets.com/objects.phtml?type=shop&obj_type=*
